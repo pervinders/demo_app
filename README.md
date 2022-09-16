@@ -1,6 +1,6 @@
 # demo_app
 
-
+@ok new papa
 
 #DEV DEV
 
